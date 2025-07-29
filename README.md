@@ -1,12 +1,14 @@
-# Sales-Dashboard-Powerbi
+# Sales Dashboard
 ## 🔥 Overview  
 An interactive **Power BI Dashboard** featuring **two powerful bookmarks** that provide a **complete 360° view of sales performance**:
 
 - ✅ **Overall Sales Summary** – high-level KPIs and trends
-- ![Uploading Screenshot (290).png…]()
+<img width="1920" height="955" alt="Screenshot (290)" src="https://github.com/user-attachments/assets/b60505e0-5d54-4740-a7c5-73dfb8cfb2d4" />
+
  
 - ✅ **Product Breakdown** – detailed product-level insights
-- ![Uploading Screenshot (291).png…]()
+<img width="1920" height="945" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/43a54ec8-a47f-4480-b9e7-e2471886be9b" />
+
 
 ---
 
